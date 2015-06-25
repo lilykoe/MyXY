@@ -57,6 +57,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/mail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3526,
+		"inputAbbreviatedPath": "\/assets\/mail.png",
+		"outputAbbreviatedPath": "\/assets\/mail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/phone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18722,
+		"inputAbbreviatedPath": "\/assets\/phone.png",
+		"outputAbbreviatedPath": "\/assets\/phone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/sunset.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

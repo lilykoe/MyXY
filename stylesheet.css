@@ -61,18 +61,14 @@ p {
 	width: 55%;
 }
 
-#col4i {
-	width: 33.33%;
+#col6 {
+	width: 50%;
 	height: auto;
-	min-width: 200px;
+	min-width: 50px;
+	padding-bottom: 75px;
 	
 }
-#col8i  {
-	width: 55%;
-	max-width: 450px;
-	min-width: 300px;
-	padding-right: 30px;
-}
+
 
 h1 {
 	font-weight: 200;
