@@ -1,0 +1,69 @@
+html {
+	font-family: 'Lato', sans-serif;
+	overflow-x: hidden;
+	background-color: #eff0ff; 
+	
+}
+body{
+	margin: 0px;
+	background-image: url("assets/sunset1.jpg");
+	width: auto;
+	image-rendering: crisp-edges;
+	image-rendering: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	overflow-x: hidden;
+	text-align: center;
+	
+}
+h1 {
+	font-weight: 200;
+	text-align: center;
+	font-size: 4em;
+	overflow-x: hidden;
+	padding-top: 250px;
+	padding-bottom: 250px;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+	background-color: black;
+    margin-bottom: 0px;
+}
+
+li {
+    display: inline;
+    padding: 25px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 25px;
+    
+}
+a:link, a:visited {
+    display: inline;
+    font-weight: 300;
+    font-size: 110%;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#body {
+	margin: 0px;
+	background-color:#000;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-bottom: 60px;
+	padding-top: 50px;
+	color: white;
+	margin-bottom: -16px;
+}
+#bodycontent {
+	background-color:#000;
+	margin: 0px;
+	color: white;
+}

@@ -90,6 +90,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/sunset1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.48974e+06,
+		"inputAbbreviatedPath": "\/assets\/sunset1.jpg",
+		"outputAbbreviatedPath": "\/assets\/sunset1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/contact.html": {
 		"fileType": 8192,
 		"ignore": 0,

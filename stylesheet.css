@@ -1,12 +1,12 @@
 body{
 	margin: 0px;
-	background-image: url("assets/sunset.jpg");
-	width: 100%;
+	background-image: url("assets/sunset1.jpg");
+	width: auto;
 	image-rendering: crisp-edges;
 	image-rendering: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: auto;
+	height: 100%;
 	overflow-x: hidden;
 	text-align: center;
 }
@@ -78,7 +78,7 @@ h1 {
 	padding-top: 75px;
 	padding-bottom: 75px;
 	width: 100%;
-	background-color: rgba(226, 224, 255, 0.6)
+	background-color: rgba(226, 224, 255, 0.6);
 }
 h2 {
 	font-weight: 200;
