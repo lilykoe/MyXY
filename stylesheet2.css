@@ -1,7 +1,7 @@
 html {
 	font-family: 'Lato', sans-serif;
 	overflow-x: hidden;
-	background-color: #eff0ff; 
+	background-color: #000; 
 	
 }
 body{
@@ -31,7 +31,7 @@ ul {
     width: 100%;
     padding: 25px;
     text-align: center;
-	background-color: black;
+	background-color: #0f0f0f;
     margin-bottom: 0px;
 }
 
@@ -54,7 +54,7 @@ a:link, a:visited {
 
 #body {
 	margin: 0px;
-	background-color:#000;
+	background-color:#0f0f0f;
 	padding-left: 15%;
 	padding-right: 15%;
 	padding-bottom: 60px;
@@ -63,7 +63,22 @@ a:link, a:visited {
 	margin-bottom: -16px;
 }
 #bodycontent {
-	background-color:#000;
+	background-color:#0f0f0f;
 	margin: 0px;
+	color: white;
+}
+
+hr {
+	margin: 0px;
+}
+
+nav a {
+	margin-right: 30px;
+	margin-left: 30px;
+	padding-bottom: 20px;
+}
+#footer {
+}
+p {
 	color: white;
 }
